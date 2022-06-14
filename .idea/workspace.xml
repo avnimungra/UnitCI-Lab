@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13a2352-063b-4819-bc14-5c432b782174" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CILab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CILabInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CILabTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a13a2352-063b-4819-bc14-5c432b782174" name="Changes" comment="third commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,17 +36,15 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "/Users/lairos/IdeaProjects/CI_Lab/src/main/java/org/example",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
@@ -72,7 +58,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CILabTest.detectCapitalUseTest4">
+  <component name="RunManager" selected="JUnit.CILabTest (1)">
+    <configuration name="CILabTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CI_Lab copy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CILabTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CILabTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CI_Lab" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,7 +88,7 @@
       </method>
     </configuration>
     <configuration name="CILabTest.detectCapitalUseTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CI_Lab" />
+      <module name="CI_Lab copy" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CILabTest" />
       <option name="METHOD_NAME" value="detectCapitalUseTest4" />
@@ -104,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CILabTest (1)" />
         <item itemvalue="JUnit.CILabTest.detectCapitalUseTest4" />
         <item itemvalue="JUnit.CILabTest.detectCapitalUseTest3" />
         <item itemvalue="JUnit.CILabTest" />
@@ -119,7 +115,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655174681201</updated>
       <workItem from="1655174686493" duration="1374000" />
+      <workItem from="1655177535455" duration="536000" />
     </task>
+    <task id="LOCAL-00001" summary="third commit">
+      <created>1655177701431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655177701431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
